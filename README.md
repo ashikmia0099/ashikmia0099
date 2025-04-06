@@ -2,7 +2,17 @@
 
 ###
 
-<p align="left">Hello, I am Ashik. I have bachelor in CSE. I love working with computers and programming. I have strong understanding background of full stack Web development. My full Full Stack web path is React, Next js And Python Django.</p>
+<p align="left">Hi, I am Ashik, I am a CSE graduate from Daffodil International Academy. I have been involved in programming for the past 2 years. I have been working on the basics of programming such as data structures, algorithms, networking and different types of programming languages. Also, I have been working on web development as an internship in a company and as a junior web developer in a company for the past 1 year.
+
+What I have been doing for these 2 years ---->
+
+Problem Solving : I have solved different types of problems using C and C++ programming languages on various problem solving sites to improve my programming skills. Such as: HackerRank, CodeChef, LeetCode, Coding Ninjas etc. And by solving this problem, I have solved problems of various data structures and algorithms, some of which are: Time Complexity & Space Complexity, Queue, Stack, Singly Linked List, Double Linked List, Binary Tree, Priority Queue, Depth First Search (DFS) and 2D Grid, Dijkstra Algorithm, Bellman Ford Algorithm, Dynamic Programming, 0-1 Knapsack and Variations, BFS & DFS, Graph Algorithms etc.
+
+Web Development : Web development is a technology that is related to the daily work of people. In my web development journey, I have mainly worked with 2 famous technologies, one is web development with Python and Django and web development with MERN. These 2 technologies have made my web development journey a lot easier and changed the concept of web development.
+
+Currently Working Web Technologies : I am currently working with JavaScript based React, Next JS and Express JS for my work needs. By working with JavaScript, I can complete the frontend and backend using the same language. And I can increase the productivity of my work.
+
+Future Goals : I want to work with Blockchain technology in the future so that my technology is updated and I can work with the future world. Where I want to work with various types of decentralized websites of Web3 using Blockchain and Web technology so that people's data is safe. Which will work on the security of people's data.</p>
 
 ###
 
