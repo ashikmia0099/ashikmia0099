@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I am Ashik, I am a CSE graduate from Daffodil International Academy. I have been involved in programming for the past 2 years. I have been working on the basics of programming such as data structures, algorithms, networking and different types of programming languages. Also, I have been working on web development as an internship in a company and as a junior web developer in a company for the past 1 year.
+<p align="left">Hi, I am Ashik, I am a CSE graduate from Daffodil International Academy. I have been involved in programming for the past 2 years. I have been working on the core of programming such as data structures, algorithms, networking and different types of programming languages. Also, I have been working on web development as an internship in a company and as a junior web developer in a company for the past 1 year.
 
 What I have been doing for these 2 years ---->
 
